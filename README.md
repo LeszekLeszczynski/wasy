@@ -1,0 +1,6 @@
+# wasy
+Basic HTML5 SPA with crossroads and handlebars. With comments in Polish!
+
+![Image](https://camo.githubusercontent.com/805474b63e6277e066533c2152e5699e33882345/687474703a2f2f64323477366273726862656839642e636c6f756466726f6e742e6e65742f70686f746f2f615a504e476f6e5f34363073612e676966)
+	
+
